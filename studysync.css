@@ -29,14 +29,10 @@ body {
   justify-content: center;
     font-family: "Roboto Slab", serif;
   font-style: normal;
-  /* text-align: center; */
-  /* align-items: center; */
   height: 350px;
-  /* column-gap: 80px; */
 }
 .box1{
   display: flex;
-  
   width: 400px;
   row-gap: 20px;
   flex-direction: column;
@@ -66,12 +62,12 @@ width: 25px;
   display: flex;
   width: 600px;
   flex-direction: row;
-  /* justify-content: space-evenly; */
+ 
 }
 .imgbox{
   display: flex;
   flex-direction: row;
-  /* justify-content: center; */
+  
   align-items: center;
 }
 .minibox{
@@ -177,8 +173,7 @@ color: rgb(67, 67, 231);
 .testcards{
   display: grid;
   height: 250px;
-  /* justify-content: space-between; */
-  /* align-content: center; */
+ 
   text-align: center;
   padding-top: 20px;
   max-width: 100%;
@@ -206,7 +201,7 @@ color: rgb(67, 67, 231);
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* border: 1px solid black; */
+
 
 }
 .tcard:hover{
@@ -400,7 +395,7 @@ transform:perspective(200px) rotateX(80deg);
   width: 100%;
   background-color: aliceblue;
   flex-direction: row;
-  /* justify-content: center; */
+  
   justify-content: space-evenly;
   align-items: center;
 }
@@ -425,7 +420,7 @@ transform:perspective(200px) rotateX(80deg);
   align-items: flex-start;
   position: relative;
   animation: side_imagecontent_movement 1s ease-in-out 0s 1 forwards;
-  /* align-items: flex-start; */
+ 
 }
 .col2 {
   display: flex;
@@ -490,8 +485,7 @@ header {
   flex-direction: row;
   justify-content: space-evenly;
   align-items: center;
-  /* text-align: center;
-    align-items: center; */
+
 }
 
 .image_box a {
@@ -514,7 +508,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* text-align: center; */
+ 
   width: 110px;
   border-radius: 5px;
   border: 1px solid blue;
@@ -522,7 +516,7 @@ header {
 }
 
 .nav_box {
-  /* width: 200px; */
+ 
   display: flex;
   flex-direction: row;
 }
