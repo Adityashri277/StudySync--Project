@@ -4,11 +4,8 @@ StudySync is a modern, responsive, and visually engaging landing page for an edu
 
 📁 Project Structure
 
-StudySync/
-│
-├── studysync.html        # Main landing page
-├── studysync.css         # Styling for layout and animations
-├── studysync.js          # Form handling script connected to Google Sheets
+<img width="829" height="174" alt="image" src="https://github.com/user-attachments/assets/e2eb4b5d-fcbd-4fa8-9cb8-212c7af06c04" />
+
 
 ✨ Features
 
