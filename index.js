@@ -1,5 +1,5 @@
  const sendbtn = document.getElementById('sendbtn');
-      const scriptURL = "https://script.google.com/macros/s/AKfycbycDhrmxDLoO5ylWBl8snK0iXf9KHitnwE4iyjIhw7QFUiDLKMa0bnCP1Z6SGbYFGIZRg/exec";
+      const scriptURL = "https://script.google.com/macros/s/AKfycbzDMYS21hJfudpGPdoEofKiFAWnjNMusKCyONpjChBszHLy2obR2LDRkVtM7bvyjbdJMg/exec";
       const form = document.forms["submit-to-google-sheet"];
 
       form.addEventListener("submit", (e) => {
@@ -24,3 +24,4 @@
 
           .catch((error) => console.error("Error!", error.message));
       });
+
